@@ -18,3 +18,25 @@ This project was originally built as a final assignment for CS30 and demonstrate
 - `poker.py` – The complete Python code for the game
 - `Texas Hold'em Poker Game Project Report.pdf` – Project write-up
 - `Presentation.pdf` – Project slides
+
+## Sample Output
+Welcome to the Simple Texas Hold'em Poker Game!
+Enter Player 1 name: Alice
+Enter Player 2 name: Bob
+
+Alice Hand: 8♠ 10♥
+Bob Hand: J♦ 3♣
+
+Press Enter to deal the Flop...
+Flop: Q♣ 7♦ 4♥
+Press Enter to deal the Turn...
+Turn: K♠
+Press Enter to deal the River...
+River: 6♠
+
+Community Cards: Q♣ 7♦ 4♥ K♠ 6♠
+
+Alice has: High Card
+Bob has: One Pair
+
+Result: Bob wins!
