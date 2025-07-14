@@ -1,3 +1,8 @@
+# Texas Hold'em Poker Simulator
+# Author: Hongyi Zhang, Andy (Zhaoyang), Jerry
+# Description: A terminal-based two-player Texas Hold'em Poker game written in Python.
+#              For educational use and university application portfolio.
+
 import random
 from collections import Counter
 
